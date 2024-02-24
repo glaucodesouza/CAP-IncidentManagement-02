@@ -1,8 +1,8 @@
 # SAP BTP CAP App: Incident Management
 
 Git commands:
--Create Project in BAS (or VS Code) 
--Create Github Repo in Github 
+-Create Project in BAS (or VS Code)  
+-Create Github Repo in Github  
 -git init  
 -git branch -M main  
 -git remote add origin https://github.com/glaucodesouza/CAP-IncidentManagement-02.git  
