@@ -9,3 +9,4 @@ service ProcessorService {
 extend projection ProcessorService.Customers with {
   firstName || ' ' || lastName as name: String
 }
+annotate ProcessorService.Incidents with @odata.draft.enabled; 
